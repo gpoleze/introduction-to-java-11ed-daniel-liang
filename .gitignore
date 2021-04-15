@@ -1,0 +1,9 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build
+build/
+
+# Apple Crap
+.DS_STORE
